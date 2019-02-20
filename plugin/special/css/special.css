@@ -1,0 +1,24 @@
+button.voice {
+  position: absolute;
+  cursor: pointer;
+  border-radius: 10px;
+  color: white;
+  background-color: black;
+  width: 30px;
+  height: 30px; }
+  button.voice:hover {
+    color: red;
+    border-color: red; }
+
+button.stopSpeak {
+  position: absolute;
+  cursor: pointer;
+  border-radius: 10px;
+  color: white;
+  background-color: black;
+  width: 30px;
+  height: 30px;
+  display: none; }
+  button.stopSpeak:hover {
+    color: red;
+    border-color: red; }
